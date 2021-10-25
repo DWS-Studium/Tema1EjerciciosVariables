@@ -1,0 +1,20 @@
+Indique si los siguientes identificadores de variables en php son o no correctos, y en el caso de que no lo sean, por qué.
+
+$miNombre	Correcto
+$mi nombre	Incorrecto
+miNombre	Correcto
+$nombre_de_4_usuarios	Correcto
+$4usuarios	Incorrecto
+$los.nombre.de.todos	Incorrecto
+$nombreDeMiNiña	Incorrecto
+$echo	Correcto
+$variable_1	Correcto
+$4variable	Incorrecto
+$_4variable	Correcto
+$variable4	Correcto
+%otra	Incorrecto
+$1_otra	Incorrecto
+$variable_de_nombre_muy_largo	Correcto
+$ABC	Correcto
+$ A B C	Incorrecto
+$A_y_B_x_C	Correcto
